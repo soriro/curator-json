@@ -2,7 +2,7 @@
     {
         "type": "tile",
         "title": "신제품 소식",
-        "descript": "특별구성의 프로모션도 놓치지 마세요",
+        "description": "특별구성의 프로모션도 놓치지 마세요",
         "items" : ["004881","004887","004880","001883","004062","004058","001556","001555"],
         "update": ""
     }
@@ -10,7 +10,7 @@
     {
         "type": "renewer",
         "title": "리뉴얼 제품",
-        "descript": "",
+        "description": "",
         "items" : ["0001942","000178","000129"],
         "update": ""
     }
@@ -18,7 +18,7 @@
     {
         "type": "tile",
         "title": "매일 챙기는 필수 영양",
-        "descript": "건강자산을 꾸준히 적립하세요",
+        "description": "건강자산을 꾸준히 적립하세요",
         "items" : ["000111","004001","004043","004051"],
         "update": ""
     }
@@ -26,7 +26,7 @@
     {
         "type": "big",
         "title": "홍삼, 어디까지 먹어봤니?",
-        "descript": "면역력 증진에 도움을 줄 수 있다는 홍삼! 어린아이부터 MZ세대는 물론, 어르신까지 모두가 즐기는데, 과연 어떤 제품을 골라야 할까? 애터미 홍삼 시리즈로 세대별, 기능별, 홍삼의 모든 것을 알아보자.",
+        "description": "면역력 증진에 도움을 줄 수 있다는 홍삼! 어린아이부터 MZ세대는 물론, 어르신까지 모두가 즐기는데, 과연 어떤 제품을 골라야 할까? 애터미 홍삼 시리즈로 세대별, 기능별, 홍삼의 모든 것을 알아보자.",
         "image": "https://shop-api-ga.atomy.com/productDisplayModuleProp/image1by4/202401/26/26ce5c24-5c67-4d65-a6a0-14272ec024cd.png",
         "items" : ["004027","000108","004029","004026"],
         "update": ""
@@ -42,7 +42,7 @@
     {
         "type": "big",
         "title": "강력한 디에이징 효과",
-        "descript": "앱솔루트는 화장품이 아니라 과학입니다",
+        "description": "앱솔루트는 화장품이 아니라 과학입니다",
         "image": "https://shop-api-ga.atomy.com/productCurationSectionProp/brandBannerImgMobile/202309/21/540dffc7-a894-46c6-a2cb-b6a8d72b5b30.png",
         "items" : ["000227","000267","000217","000207"],
         "update": ""
@@ -58,7 +58,7 @@
     {
         "type": "scroll",
         "title": "건조함을 잡는 오일",
-        "descript": "페이스 오일부터 바디, 헤어, 아로마 오일까지",
+        "description": "페이스 오일부터 바디, 헤어, 아로마 오일까지",
         "items" : ["000681","004806","000482","004802"],
         "update": ""
     }
@@ -66,7 +66,7 @@
     {
         "type": "scroll",
         "title": "SMART SET SHOPPING",
-        "descript": "간편한 구매, 더 많은 혜택",
+        "description": "간편한 구매, 더 많은 혜택",
         "items" : ["001508","000506","000974","001453"],
         "update": ""
     }
@@ -74,7 +74,7 @@
     {
         "type": "scroll",
         "title": "친환경 제품🍃",
-        "descript": "지속가능한 미래를 위해",
+        "description": "지속가능한 미래를 위해",
         "items" : ["000874","000583","001806","001805"],
         "update": ""
     }
