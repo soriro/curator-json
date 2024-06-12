@@ -1,0 +1,53 @@
+[
+    {
+        "place": "애터미 오롯",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202406/11/e7faebb4-ae6b-49eb-b1b2-bb37d9eecaa6.png",
+            "https://shop.atomy.com/__resource/imageResource/file/202406/11/6a17784b-94ba-4427-b4be-4d6b323eb7b4.png" 
+        ]
+    }
+    ,
+    {
+        "place": "수원 라비돌리조트",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202406/11/ef0c2299-f61a-4eac-acda-d328eb0e5f6d.png",
+            "https://shop.atomy.com/__resource/imageResource/file/202406/11/71c6ddd1-dba0-4ffa-9295-4eeb1c2b5fa7.png" 
+        ]
+    }
+    ,
+    {
+        "place": "변산 소노벨",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202406/11/6a62eb6d-2cfe-4f89-ad97-bbb07eba35f3.png",
+            "https://shop.atomy.com/__resource/imageResource/file/202406/11/55914db8-c5b0-45a7-bac5-1db0327c9f05.png" 
+        ]
+    }
+    ,
+    {
+        "place": "서울 더케이",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202406/11/4260d231-d013-4837-b0ff-824d67307f5a.png"
+        ]
+    }
+    ,
+    {
+        "place": "애터미 파크",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202406/11/502b472b-0036-4307-b9d3-2076ccf4a346.png"
+        ]
+    }
+    ,
+    {
+        "place": "대구 인터불고엑스코 호텔",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202406/11/b1da2844-7695-41bd-8ce3-41727c94071e.png" 
+        ]
+    }
+    ,
+    {
+        "place": "부산항국제전시컨벤션센터 (BPEX)",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202406/11/73bd3f9f-a0d0-4960-9637-127661e7ebb5.png"
+        ]
+    }
+]
