@@ -2,52 +2,45 @@
     {
         "place": "애터미 오롯",
         "image": [ 
-            "https://shop-api-ga.atomy.com/imageResource/file/202406/11/e7faebb4-ae6b-49eb-b1b2-bb37d9eecaa6.png",
-            "https://shop-api-ga.atomy.com/imageResource/file/202406/11/6a17784b-94ba-4427-b4be-4d6b323eb7b4.png" 
+            "https://shop-api-ga.atomy.com/imageResource/file/202407/17/eb8e4f95-26fb-4b48-a5f5-7f20f83c92b9.png",
+            "https://shop-api-ga.atomy.com/imageResource/file/202407/17/86cebd1c-ec5f-4283-b082-e32d42a5e60a.png" 
         ]
     }
     ,
     {
         "place": "수원 라비돌리조트",
         "image": [ 
-            "https://shop-api-ga.atomy.com/imageResource/file/202406/11/ef0c2299-f61a-4eac-acda-d328eb0e5f6d.png",
-            "https://shop-api-ga.atomy.com/imageResource/file/202406/11/71c6ddd1-dba0-4ffa-9295-4eeb1c2b5fa7.png" 
+            "https://shop-api-ga.atomy.com/file/202407/17/371723f6-20f3-4790-91d3-e48ceebb8c15.png",
+            "https://shop-api-ga.atomy.com/file/202407/17/13ee5b5a-5bee-4694-a691-78bb2965c289.png" 
         ]
     }
     ,
     {
         "place": "변산 소노벨",
         "image": [ 
-            "https://shop-api-ga.atomy.com/imageResource/file/202406/11/6a62eb6d-2cfe-4f89-ad97-bbb07eba35f3.png",
-            "https://shop-api-ga.atomy.com/imageResource/file/202406/11/55914db8-c5b0-45a7-bac5-1db0327c9f05.png" 
+            "https://shop-api-ga.atomy.com/file/202407/17/fb27e570-3292-4a35-97de-f16fdeb718f1.png",
+            "https://shop-api-ga.atomy.com/file/202407/17/15e45c81-8480-45c5-8b9c-1d6fe2ec71b1.png" 
         ]
     }
     ,
     {
         "place": "서울 더케이",
         "image": [ 
-            "https://shop-api-ga.atomy.com/imageResource/file/202406/11/4260d231-d013-4837-b0ff-824d67307f5a.png"
-        ]
-    }
-    ,
-    {
-        "place": "애터미 파크",
-        "image": [ 
-            "https://shop-api-ga.atomy.com/imageResource/file/202406/11/502b472b-0036-4307-b9d3-2076ccf4a346.png"
+            "https://shop-api-ga.atomy.com/file/202407/17/9f7b6f10-9c36-4acf-86c8-f4126ccc5415.png"
         ]
     }
     ,
     {
         "place": "대구 인터불고엑스코 호텔",
         "image": [ 
-            "https://shop-api-ga.atomy.com/imageResource/file/202406/11/b1da2844-7695-41bd-8ce3-41727c94071e.png" 
+            "https://shop-api-ga.atomy.com/file/202407/17/a57ee570-3d29-4ac3-8289-043a206dc15f.png" 
         ]
     }
     ,
     {
-        "place": "부산항국제전시컨벤션센터 (BPEX)",
+        "place": "울산 유에코",
         "image": [ 
-            "https://shop-api-ga.atomy.com/imageResource/file/202406/11/73bd3f9f-a0d0-4960-9637-127661e7ebb5.png"
+            "https://shop-api-ga.atomy.com/file/202407/17/3d3ed0a2-9bfc-446f-a4d1-5dcc21b5a5d9.png"
         ]
     }
 ]
