@@ -1,0 +1,41 @@
+[
+    {
+        "style" : "tile",
+        "title" : "믿고 쓰는 애터미 ⌜신제품⌟",
+        "materialCode" : ["004079", "004078", "003802", "003835", "003826"],
+        "items" : []
+    }
+    ,
+    {
+        "style" : "scroll",
+        "title" : "추석 선물세트",
+        "description" : "귀하고 품격있는 선물로 감사를 전하세요",
+        "materialCode" : ["020243", "020242", "020230", "000267", "020239", "020241", "000219"],
+        "items" : []
+    }
+    ,
+    {
+        "style" : "scroll",
+        "title" : "캠핑 식도락 🫕",
+        "materialCode" : ["020242", "001137", "000267", "020239", "020241", "000219"],
+        "items" : []
+    }
+    ,
+    {
+        "style" : "blog",
+        "title" : "비타민과 미네랄, 왜 중요할까?",
+        "image" : "https://shop-api-ga.atomy.com/productDisplayModuleProp/image1by4/202406/25/d43b61d8-f470-4db4-a800-3cc15f2686a5.jpg",
+        "description" : "보건복지부의 국민영양조사에 의하면 국민의 40%가 영양을 부족하게 섭취하거나 지나치게 많이 섭취하는 영양 불균형 상태라고 밝혔다. 비타민은 인체에서 자체적으로 합성되지 않기 때문에 매일 식사를 통해 공급해야 하는데, 요즘 현대인들의 변화된 식습관으로 인해 비타민과 미네랄이 부족해지기 쉽다.",
+        "materialCode" : ["001137", "020240", "000267", "020239"],
+        "items" : []
+    }
+    ,
+    {
+        "style" : "image",
+        "title" : "강력한 디에이징 효과",
+        "image" : "https://shop-api-ga.atomy.com/productCurationSectionProp/brandBannerImgMobile/202309/21/540dffc7-a894-46c6-a2cb-b6a8d72b5b30.png",
+        "description" : "앱솔루트는 화장품이 아니라 과학입니다",
+        "materialCode" : ["000227", "000267", "000217", "000207"],
+        "items" : []
+    }
+]
