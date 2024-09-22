@@ -1,0 +1,83 @@
+[
+    { 
+        "name": "큐레이터",
+        "path": "{curator_home}",
+        "display" : ["kr"] 
+    }
+    ,
+    { 
+        "name": "간편구매 몰",
+        "icon": "atomyIcon",
+        "size": "1",
+        "path": "{easy_mall_home}",
+        "display" : ["kr"] 
+    }
+    ,
+    { 
+        "name": "Show Room",
+        "path": "{easy_mall_home}",
+        "display" : ["ph"] 
+    }
+    ,
+    { 
+        "name": "간편가입",
+        "icon": "atomyIcon",
+        "size": "1",
+        "path": "{curator_home}/easyjoin",
+        "display" : ["kr"] 
+    }
+    ,
+    { 
+        "name": "숏츠",
+        "icon": "shortsIcon",
+        "size": "2",
+        "path": "${easy_mall_home}/shorts",
+        "display" : ["kr"] 
+    }
+    ,
+    { 
+        "name": "신제품", 
+        "path": "{easy_mall_category}",
+        "display" : ["kr"] 
+    }
+    ,
+    { 
+        "name": "프로팩타민챌린지", 
+        "icon": "https://shop-static.atomy.com/products/01/004078/4907cbc4-0855-406f-b4ac-08e089197977_193x193.jpg",
+        "size": "4", 
+        "path": "{easy_mall_category}",
+        "display" : ["kr"]
+    }
+    ,
+    { 
+        "name": "장바구니", 
+        "path": "{easy_mall_home}/cart",
+        "display" : ["kr"] 
+    }
+    ,
+    { 
+        "name": "마케팅플랜", 
+        "path": "{curator_home}/makerting-plan",
+        "display" : ["kr"] 
+    }
+    ,
+    { 
+        "name": "TEAM",
+        "path": "{curator_home}/team",
+        "display" : ["kr"] 
+    }
+    ,
+    { 
+        "name": "애터미아자",
+        "path": "{easy_mall_home}",
+        "display" : ["kr"] 
+    }
+    ,
+    { 
+        "name": "TEAM",
+        "icon": "jinjeopIcon",
+        "size": "3", 
+        "path": "{easy_mall_home}",
+        "display" : ["kr"]
+    }
+]
