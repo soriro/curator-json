@@ -1,32 +1,33 @@
 [
     {
         "style" : "tile",
-        "title" : "일반 제품",
+        "title" : "믿고 쓰는 애터미 신제품",
         "description" : "",
-        "materialCode" : ["000011", "000460", "000012"],
+        "materialCode" : ["020246", "005856", "020244", "004074"],
+        "items" : []
+    }
+    ,
+    {
+        "style" : "tile",
+        "title" : "믿고 쓰는 애터미 베스트상품",
+        "description" : "",
+        "materialCode" : ["005856", "000011", "000629", "004078"],
+        "items" : []
+    }
+    ,
+    {
+        "style" : "tile",
+        "title" : "매일 챙기는 필수 영양",
+        "description" : "건강자산을 꾸준히 적립하세요",
+        "materialCode" : ["000111", "004001", "004043", "004051"],
         "items" : []
     }
     ,
     {
         "style" : "scroll",
-        "title" : "1단계 옵션 제품",
-        "description" : "귀하고 품격있는 선물로 감사를 전하세요",
-        "materialCode" : ["004749", "003778"],
-        "items" : []
-    }
-    ,
-    {
-        "style" : "scroll",
-        "title" : "2단계 옵션 제품",
-        "materialCode" : ["003835", "001137"],
-        "items" : []
-    }
-    ,
-    {
-        "style" : "scroll",
-        "title" : "번들",
-        "description" : "번들 옵션 제품",
-        "materialCode" : ["001806", "001806"],
+        "title" : "간절기 옷장 필수템",
+        "description" : "",
+        "materialCode" : ["003592", "003576"],
         "items" : []
     }
     ,
@@ -44,7 +45,7 @@
         "title" : "강력한 디에이징 효과",
         "image" : "https://shop-api-ga.atomy.com/productCurationSectionProp/brandBannerImgMobile/202309/21/540dffc7-a894-46c6-a2cb-b6a8d72b5b30.png",
         "description" : "앱솔루트는 화장품이 아니라 과학입니다",
-        "materialCode" : ["000227", "000267", "000217", "000207"],
+        "materialCode" : ["000227", "000267", "000217", "005856"],
         "items" : []
     }
 ]
