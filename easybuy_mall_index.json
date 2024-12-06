@@ -12,14 +12,6 @@
     ,
     {
         "style" : "tile",
-        "title" : "믿고 쓰는 애터미 신제품",
-        "description" : "",
-        "materialCode" : ["020246", "005856", "020244", "004074"],
-        "items" : []
-    }
-    ,
-    {
-        "style" : "tile",
         "title" : "믿고 쓰는 애터미 베스트상품",
         "description" : "",
         "materialCode" : ["005856", "000011", "000629", "004078"],
