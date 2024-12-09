@@ -19,6 +19,15 @@
     }
     ,
     {
+        "style" : "image",
+        "title" : "강력한 디에이징 효과",
+        "image" : "https://shop-api-ga.atomy.com/productCurationSectionProp/brandBannerImgMobile/202309/21/540dffc7-a894-46c6-a2cb-b6a8d72b5b30.png",
+        "description" : "앱솔루트는 화장품이 아니라 과학입니다",
+        "materialCode" : ["000227", "000267", "000217", "000207"],
+        "items" : []
+    }
+    ,
+    {
         "style" : "scroll",
         "title" : "🏌🏻‍♂️운동갈 때 여행갈 때",
         "description" : "",
