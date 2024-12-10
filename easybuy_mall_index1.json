@@ -19,6 +19,14 @@
     }
     ,
     {
+        "style" : "tile",
+        "title" : "스킨케어 세트",
+        "description" : "단계별 완벽 관리로 피부고민을 해결하다",
+        "materialCode" : ["000003", "001532", "000759", "000768"],
+        "items" : []
+    }
+    ,
+    {
         "style" : "scroll",
         "title" : "조용히 잘나가는 옴므템",
         "description" : "",
