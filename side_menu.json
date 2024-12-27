@@ -6,4 +6,51 @@
         "description" : "애터미 설 선물세트로 고마운 분께감사를 전하세요.",
         "url"         : "promo"
     }
+    ,
+    {
+        "type"  : "menu",
+        "title" : "큐레이터 / 애터미 소개",
+        "items" : [
+            {
+                "name" : "애터미 큐레이터",
+                "description": "애터미의 당신의 비전과, 제품을 소개하는 애터미 큐레이터입니다.",
+                "link" : "../",
+                "icon" : "ProfileIcon"
+            }
+            ,
+            {
+                "name" : "주문/배송조회",
+                "description": "비회원 주문도 걱정마세요. 주문/베송죄회 가능",
+                "link" : "cart",
+                "icon" : "CartIcon"
+            }
+        ]
+    }
+    , 
+    {
+        "type"  : "menu",
+        "title" : "장바구니",
+        "items" : [
+            {
+                "name" : "장바구니",
+                "description": "담아 담아 한번에 구매, 50,000원 이상 무료배송도 가능",
+                "link" : "cart",
+                "icon" : "CartIcon"
+            }
+            ,
+            {
+                "name" : "사용자 장바구니",
+                "description": "비회원 주문도 걱정마세요. 주문/베송죄회 가능",
+                "link" : "cart",
+                "icon" : "Cart_listIcon"
+            }
+            ,
+            {
+                "name" : "주문/배송조회",
+                "description": "비회원 주문도 걱정마세요. 주문/베송죄회 가능",
+                "link" : "cart",
+                "icon" : "Order_listIcon"
+            }
+        ]
+    }
 ]
