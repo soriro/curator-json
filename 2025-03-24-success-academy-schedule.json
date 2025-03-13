@@ -1,0 +1,50 @@
+[
+    {
+        "place": "애터미 오롯",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202503/12/c6fc93c4-3b2a-40ed-8a49-c3538d530a54.png"
+        ]
+    }
+    ,
+    {
+        "place": "일산 킨텍스",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202503/12/f860dc47-f4c4-4396-90ed-443e2ff5a53d.png"
+        ]
+    }
+    ,
+    {
+        "place": "수원 라비돌리조트",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202503/12/a8511bba-310d-4cd2-9b6d-6a5acbce28a3.png"
+        ]
+    }
+    ,
+    {
+        "place": "변산 소노벨",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202503/12/889d4115-c1ca-4411-9118-43950f85f1bc.png"
+        ]
+    }
+    ,
+    {
+        "place": "울산 유에코",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202503/12/084ad412-5ae2-4f07-b3f0-4e255205bf78.png"
+        ]
+    }
+    ,
+    {
+        "place": "대구 인터불고엑스코 호텔",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202503/13/1fbb025a-f1aa-4a28-aa52-68d59ac4c3a0.png" 
+        ]
+    }
+    ,
+    {
+        "place": "부산항국제전시컨벤션센터 (BPEX)",
+        "image": [ 
+            "https://shop.atomy.com/__resource/imageResource/file/202503/12/43d30879-1379-456e-82b5-aba82c78678c.png"
+        ]
+    }
+]
